@@ -87,3 +87,7 @@ encoding dataset
 ![image](https://user-images.githubusercontent.com/95408674/195154582-e7b82dc8-8f59-4c37-9f28-18a1c110e9b4.png)
 
 ![image](https://user-images.githubusercontent.com/95408674/195154666-cc40068b-f3c9-49ab-8ce1-edc81bed5718.png)
+
+# Result
+
+Thus the required Output is displayed.
